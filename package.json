@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-datetimepicker-frank",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "A bootstrap datetime picker component for React.js that supports seconds",
   "homepage": "https://github.com/frank780117/react-bootstrap-datetimepicker",
   "repository": {
