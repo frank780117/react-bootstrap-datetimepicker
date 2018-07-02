@@ -1,4 +1,4 @@
-react-bootstrap-datetimepicker-seconds
+react-bootstrap-datetimepicker-frank
 ===============================
 
 This project is a fork of https://github.com/quri/react-bootstrap-datetimepicker that allow the support of seconds.
@@ -9,12 +9,12 @@ Usage
 
 Installation :
 ```
-npm install react-bootstrap-datetimepicker-seconds
+npm install react-bootstrap-datetimepicker-frank
 ```
 
 Then
 ```javascript
-var DateTimeField = require('react-bootstrap-datetimepicker-seconds');
+var DateTimeField = require('react-bootstrap-datetimepicker-frank');
 
 ...
 
