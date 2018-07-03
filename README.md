@@ -1,7 +1,7 @@
 react-bootstrap-datetimepicker-frank
 ===============================
 
-This project is a fork of https://github.com/quri/react-bootstrap-datetimepicker that allow the support of seconds.
+This project is a fork of https://github.com/quri/react-bootstrap-datetimepicker that allow the support of 24hr.
 TimePicker default format is now 'h:mm:ss A' instead of 'h:mm A'.
 
 Usage

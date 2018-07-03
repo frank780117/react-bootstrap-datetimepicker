@@ -1,7 +1,7 @@
 {
   "name": "react-bootstrap-datetimepicker-frank",
-  "version": "1.0.01",
-  "description": "A bootstrap datetime picker component for React.js that supports seconds",
+  "version": "1.0.02",
+  "description": "A bootstrap datetime picker component for React.js that supports 24hr",
   "homepage": "https://github.com/frank780117/react-bootstrap-datetimepicker",
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
     "datetimepicker",
     "datetime"
   ],
-  "author": "Renaud Hébert-Legault <renaud.hebertlegault@gmail.com>",
+  "author": "Frank Chiu <frank.chiu350@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=0.14"
